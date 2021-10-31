@@ -1,0 +1,10 @@
+.icon-xxx:before {
+	content: "\e600";
+}
+/* 卡片处小图标 */
+.card_icon {
+	/* 修改颜色 */
+	#color: blue;
+	/* 修改大小 */
+	font-size: 32px;
+}
